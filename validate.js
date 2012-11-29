@@ -1,5 +1,4 @@
 // this is the script code
-//added one more comments
 var count =0;  
 function IsNumber(evt)
         {

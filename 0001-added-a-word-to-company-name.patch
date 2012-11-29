@@ -1,0 +1,36 @@
+From fd0b28d979c84f49400db5b60dba27f6c4fe251c Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.sp@iMac-0008.local>
+Date: Tue, 20 Nov 2012 11:05:17 +0530
+Subject: [PATCH 1/8] added a word to company name
+
+---
+ .DS_Store         | Bin 6148 -> 6148 bytes
+ personalinfo.html |   2 +-
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/.DS_Store b/.DS_Store
+index 162b46b8fcb754851bee1010643e7997f346eca6..17a150f67382a4655c9b5b00f2f564f8c71c507f 100644
+GIT binary patch
+delta 61
+zcmZoMXfc@J&&a+pU^gQp`(z%bRz{)80Zd9#40WD4`N>H+`AG~63<5yx2E;S|1HtAl
+MCQH`M>>Pjj0S#^vNB{r;
+
+delta 35
+rcmZoMXfc@J&&akhU^gQp+hhS|`N`T$X`8Py8L>`maM{ex@s}R}zf20^
+
+diff --git a/personalinfo.html b/personalinfo.html
+index 3520de0..9f274e6 100644
+--- a/personalinfo.html
++++ b/personalinfo.html
+@@ -14,7 +14,7 @@
+ <br>
+ <br>
+ <br>
+-<h2>PERSONAL INFORMATION:</h2>
++<h2>PERSONAL INFORMATION</h2>
+ <br>
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <b style="font-size:25px">Photo[Less Than 240kb]:<b><input type=file id=fileUp onchange="getImg()">
+-- 
+1.8.0
+

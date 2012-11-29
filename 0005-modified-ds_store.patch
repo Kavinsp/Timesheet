@@ -1,0 +1,37 @@
+From e61e30b45c7fc91e07a4acb6fc53e914a703129a Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.sp@iMac-0008.local>
+Date: Tue, 27 Nov 2012 11:20:40 +0530
+Subject: [PATCH 5/8] modified ds_store
+
+---
+ .DS_Store         | Bin 6148 -> 6148 bytes
+ personalinfo.html |   2 +-
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/.DS_Store b/.DS_Store
+index 42571e31e3035cd72606b3790f2d2b48aa18fde6..c0b564f0181f592c2c9caf5c7e60eb9f0c92f1e9 100644
+GIT binary patch
+delta 54
+zcmZoMXffDugoTUo1_J|w1_J~0fyw7sD%cp#fVh)=Sf6scK_&M6|G%;DG~;G=j=%f>
+Dpt=x4
+
+delta 54
+zcmZoMXffDugoTT#mVtpmm4ShI|KxKl6>N;HAns%z)~DQBP>Fs2|8Fcj&A6GJ<1aq|
+Dg=i0b
+
+diff --git a/personalinfo.html b/personalinfo.html
+index 3520de0..9f274e6 100644
+--- a/personalinfo.html
++++ b/personalinfo.html
+@@ -14,7 +14,7 @@
+ <br>
+ <br>
+ <br>
+-<h2>PERSONAL INFORMATION:</h2>
++<h2>PERSONAL INFORMATION</h2>
+ <br>
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <b style="font-size:25px">Photo[Less Than 240kb]:<b><input type=file id=fileUp onchange="getImg()">
+-- 
+1.8.0
+

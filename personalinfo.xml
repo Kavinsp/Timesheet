@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <personal>
   <minfo>
-    <firstname> </firstname>
-    <lastname> </lastname>
-    <emergency> </emergency>
-    <phonenumber> </phonenumber>
+    <firstname>Srikanth </firstname>
+    <lastname> reddy</lastname>
+    <emergency> 111</emergency>
+    <phonenumber> 111111</phonenumber>
     <employee/>
     <address/>
     <visas/>

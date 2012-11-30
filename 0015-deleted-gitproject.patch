@@ -1,0 +1,20 @@
+From d0b9c68a008bd1fcb04e4444f8ca0e7b8bd8094d Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.sp@iMac-0008.local>
+Date: Tue, 27 Nov 2012 09:39:53 +0530
+Subject: [PATCH 15/18] deleted gitproject
+
+---
+ gitproject | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 160000 gitproject
+
+diff --git a/gitproject b/gitproject
+deleted file mode 160000
+index 28b2906..0000000
+--- a/gitproject
++++ /dev/null
+@@ -1 +0,0 @@
+-Subproject commit 28b2906e80db73958acf769989b41fc253342e2b
+-- 
+1.8.0
+

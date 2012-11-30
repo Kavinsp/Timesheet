@@ -1,0 +1,44 @@
+From 3a5e81bce48557f9cf4938bf7fc5ef52fa50ecd3 Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.sp@iMac-0008.local>
+Date: Tue, 20 Nov 2012 12:23:25 +0530
+Subject: [PATCH 06/18] added personal file
+
+---
+ .DS_Store         | Bin 6148 -> 6148 bytes
+ personalinfo.html |   4 ++--
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/.DS_Store b/.DS_Store
+index 17a150f67382a4655c9b5b00f2f564f8c71c507f..034a06858952b887dd77341f3ee4eeb142bf4122 100644
+GIT binary patch
+delta 105
+zcmZoMXfc=|#>B!ku~2NHo+2a1#(>?7iytsEF>*}qW0F_YW5{4AVaR33@yy9jPRhwo
+zVqjnp0Ae>Fp25Jtd|)yUv+`zbrWwqe**W+*fCg>8$o!poGQWr;2O|Rm6Hpn$<_M8B
+F%m7~?7zF?T
+
+delta 63
+zcmZoMXfc=|#>B)qu~2NHo+2ar#(>?7jO?2OShh27Y;a-P%+A5j0hHb>$nl+dGQWr;
+R2Lli=GBB`gju2VH3;+ez4wnD`
+
+diff --git a/personalinfo.html b/personalinfo.html
+index 468b984..9f274e6 100644
+--- a/personalinfo.html
++++ b/personalinfo.html
+@@ -9,12 +9,12 @@
+  <script src="personalinfo.js"></script>
+ </head>
+ <body onLoad="document.registration.firstname.focus();">
+-<h1>LIPTA INFOTAINMENT SOLUTIONS PVT</h1>
++<h1>LIPTA INFOTAINMENT SOLUTIONS </h1>
+ <br>
+ <br>
+ <br>
+ <br>
+-<h2>PERSONAL INFORMATION:</h2>
++<h2>PERSONAL INFORMATION</h2>
+ <br>
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <b style="font-size:25px">Photo[Less Than 240kb]:<b><input type=file id=fileUp onchange="getImg()">
+-- 
+1.8.0
+

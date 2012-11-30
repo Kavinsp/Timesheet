@@ -1,0 +1,24 @@
+From a70c6eda710567050928101cf326caf3c2d83150 Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.sp@iMac-0008.local>
+Date: Tue, 20 Nov 2012 14:47:25 +0530
+Subject: [PATCH 10/18] some lines are included
+
+---
+ ssamp.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/ssamp.html b/ssamp.html
+index e75e03c..92c62cf 100644
+--- a/ssamp.html
++++ b/ssamp.html
+@@ -4,5 +4,7 @@
+ 	<title> SAMPLE PAGE FOR CHECKING BRANCHES</title>
+ </head>
+ <body>
++	<h1> Header1</h1>
++	<h2> header2</h2>
+ </body>
+ </html>
+-- 
+1.8.0
+

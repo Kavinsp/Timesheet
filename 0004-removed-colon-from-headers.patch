@@ -1,0 +1,42 @@
+From de194bc5fc8388cb41338e07f47d11dd452d33fc Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.sp@iMac-0008.local>
+Date: Tue, 20 Nov 2012 11:11:18 +0530
+Subject: [PATCH 04/18] removed colon from headers
+
+---
+ .DS_Store         | Bin 6148 -> 6148 bytes
+ personalinfo.html |   4 ++--
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/.DS_Store b/.DS_Store
+index 162b46b8fcb754851bee1010643e7997f346eca6..17a150f67382a4655c9b5b00f2f564f8c71c507f 100644
+GIT binary patch
+delta 61
+zcmZoMXfc@J&&a+pU^gQp`(z%bRz{)80Zd9#40WD4`N>H+`AG~63<5yx2E;S|1HtAl
+MCQH`M>>Pjj0S#^vNB{r;
+
+delta 35
+rcmZoMXfc@J&&akhU^gQp+hhS|`N`T$X`8Py8L>`maM{ex@s}R}zf20^
+
+diff --git a/personalinfo.html b/personalinfo.html
+index 468b984..9f274e6 100644
+--- a/personalinfo.html
++++ b/personalinfo.html
+@@ -9,12 +9,12 @@
+  <script src="personalinfo.js"></script>
+ </head>
+ <body onLoad="document.registration.firstname.focus();">
+-<h1>LIPTA INFOTAINMENT SOLUTIONS PVT</h1>
++<h1>LIPTA INFOTAINMENT SOLUTIONS </h1>
+ <br>
+ <br>
+ <br>
+ <br>
+-<h2>PERSONAL INFORMATION:</h2>
++<h2>PERSONAL INFORMATION</h2>
+ <br>
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <b style="font-size:25px">Photo[Less Than 240kb]:<b><input type=file id=fileUp onchange="getImg()">
+-- 
+1.8.0
+

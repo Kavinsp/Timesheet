@@ -1,0 +1,31 @@
+From a215b4d6e5a7b0ba0e1870ceeca20a6a74d10105 Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.sp@iMac-0008.local>
+Date: Tue, 20 Nov 2012 11:28:51 +0530
+Subject: [PATCH 05/18] again changed like previous data
+
+---
+ personalinfo.html | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/personalinfo.html b/personalinfo.html
+index 9f274e6..468b984 100644
+--- a/personalinfo.html
++++ b/personalinfo.html
+@@ -9,12 +9,12 @@
+  <script src="personalinfo.js"></script>
+ </head>
+ <body onLoad="document.registration.firstname.focus();">
+-<h1>LIPTA INFOTAINMENT SOLUTIONS </h1>
++<h1>LIPTA INFOTAINMENT SOLUTIONS PVT</h1>
+ <br>
+ <br>
+ <br>
+ <br>
+-<h2>PERSONAL INFORMATION</h2>
++<h2>PERSONAL INFORMATION:</h2>
+ <br>
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <b style="font-size:25px">Photo[Less Than 240kb]:<b><input type=file id=fileUp onchange="getImg()">
+-- 
+1.8.0
+

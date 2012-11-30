@@ -1,0 +1,23 @@
+From 18d0dfa10dbd8e8eb1fc8eae3de3fd2da67a8d09 Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.sp@iMac-0008.local>
+Date: Tue, 20 Nov 2012 15:00:39 +0530
+Subject: [PATCH 12/18] added a paragraph
+
+---
+ ssamp.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/ssamp.html b/ssamp.html
+index dea933e..9f7e656 100644
+--- a/ssamp.html
++++ b/ssamp.html
+@@ -8,5 +8,6 @@
+ <body>
+ 	<h1> Header1</h1>
+ 	<h2> header2</h2>
++	<p> this is my paragraph </p>
+ </body>
+ </html>
+-- 
+1.8.0
+

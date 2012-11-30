@@ -1,0 +1,21 @@
+From 7990b96e85b324bf627d9730a4eb4f64724e3839 Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.ns@gmail.com>
+Date: Fri, 30 Nov 2012 10:01:43 +0530
+Subject: [PATCH 18/18] pressed enter after </html> tag
+
+---
+ ssamp.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/ssamp.html b/ssamp.html
+index c096f1a..5d857a5 100644
+--- a/ssamp.html
++++ b/ssamp.html
+@@ -12,3 +12,4 @@
+ 	<p>for the convenience of checking purpose</p>
+ </body>
+ </html>
++
+-- 
+1.8.0
+

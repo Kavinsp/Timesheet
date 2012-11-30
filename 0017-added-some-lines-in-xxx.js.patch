@@ -1,0 +1,21 @@
+From c7cf2c953adabf596725e6c5099d439568a3241b Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.ns@gmail.com>
+Date: Fri, 30 Nov 2012 10:00:54 +0530
+Subject: [PATCH 17/18] added some lines in xxx.js
+
+---
+ xxx.js | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/xxx.js b/xxx.js
+index e69de29..8c2e5e0 100644
+--- a/xxx.js
++++ b/xxx.js
+@@ -0,0 +1,4 @@
++jgsfkgkdfgg
++jffevkvgekgkuf
++fjhdfeb,bg
++jfdfrywbf
+-- 
+1.8.0
+

@@ -1,0 +1,21 @@
+From 07c5360fa451b2247832bac37701b0b6ec247091 Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.sp@iMac-0008.local>
+Date: Tue, 20 Nov 2012 10:56:49 +0530
+Subject: [PATCH 02/18] unidentified change
+
+---
+ .DS_Store | Bin 6148 -> 6148 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+diff --git a/.DS_Store b/.DS_Store
+index f0fd43b4e45de83ef29172b0648c18bd58fbacd1..162b46b8fcb754851bee1010643e7997f346eca6 100644
+GIT binary patch
+delta 28
+kcmZoMXffE($;7ySau?Gl7Uq5b|8H(&Ze!WZ#_^9I0IQ!1#{d8T
+
+delta 28
+kcmZoMXffE($;7yKau?Gl76$46|2H=>x3O$y<M_u90HX#A9{>OV
+
+-- 
+1.8.0
+

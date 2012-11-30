@@ -1,0 +1,38 @@
+From 1ae35c1be19965ed468ba9d1ea277ecf4a65c13c Mon Sep 17 00:00:00 2001
+From: Kavin <kavin.sp@iMac-0008.local>
+Date: Tue, 20 Nov 2012 12:25:54 +0530
+Subject: [PATCH 07/18] new sample files added
+
+---
+ .DS_Store  | Bin 6148 -> 6148 bytes
+ ssamp.html |   8 ++++++++
+ 2 files changed, 8 insertions(+)
+ create mode 100644 ssamp.html
+
+diff --git a/.DS_Store b/.DS_Store
+index 034a06858952b887dd77341f3ee4eeb142bf4122..d05c67dca60df60273bc1947c0825a83531a0b84 100644
+GIT binary patch
+delta 56
+zcmZoMXfc@J&&atkU^g=(=Vl(3(~R6)48=g0$dJoWFnJA&1Q&xF0|Ubh1_tJXn=i03
+LGi_$)_{$Ffp12N0
+
+delta 32
+ocmZoMXfc@J&&aVcU^g=($7UXu(~O(B+5Rw2Y%tl(&heKY0I6dNd;kCd
+
+diff --git a/ssamp.html b/ssamp.html
+new file mode 100644
+index 0000000..17f4cf4
+--- /dev/null
++++ b/ssamp.html
+@@ -0,0 +1,8 @@
++<!DOCTYPE html>
++<html>
++<head>
++	<title> SAMPLE PAGE </title>
++</head>
++<body>
++</body>
++</html>
+-- 
+1.8.0
+
